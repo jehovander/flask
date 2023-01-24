@@ -1,0 +1,84 @@
+{
+  "intents": [
+    {
+      "tag": "Saludo",
+      "patterns": [
+        "hola",
+        "que tal?",
+        "buenas tardes",
+        "hay alguien?",
+        "buenos dias",
+        "como estas?"
+      ],
+      "responses": [
+        "Hola Que Tal como estas, En este chat podre Ayudarte Con algunas dudaas que tengas sobre nuestra tienda con gusto te ayudare, Puedes preguntar: Metodos de pago, Envios, Productos, y donde nos encontramos"
+
+      ]
+    },
+    {
+      "tag": "Adios",
+      "patterns": ["Gracias Adios", "Nos vemos luego", "Adios buenas noches "],
+      "responses": [
+        "Nos vemos luego, Gracias por visitarnos",
+        "Que tengas un Excelente dia",
+        "Gracias por visitarnos, Que tengas un Excelente dia" 
+      ]
+    },
+    {
+      "tag": "Gracias",
+      "patterns": ["gracias", "Muchas gracias", "Gracias por tu ayuda"],
+      "responses": ["Un placer Haberte ayudado, Gracias por Elegirnos Atentamwentemente,The FullStackStore"]
+    },
+    {
+      "tag": "Prodcutos",
+      "patterns": [
+        " que productos vendes?",
+        "que productos tienes?",
+        "que productos hay?"
+      ],
+      "responses": [
+        "Tenemos una gran variedad de productos, puedes verlos en nuestra pagina web dirigiendote a la seccion de productos"
+      ]
+    },
+    {
+      "tag": "pagos",
+      "patterns": [
+        "Cuales son sus metodos de pagos ?",
+        "Aceptan tarjeta de Credito?",
+        "Puedo pagar via PayPal?",
+        "Aceptan Efectivo ?",
+        "Meto de pago",
+        "pago",
+        "Criptomonedas"
+      ],
+      "responses": [
+        "Aceptamos Visa , Mastercard , Efectivo y PayPal",
+        " Aceptamos Visa , Mastercard , Efectivo y PayPal",
+        "Actualmente trabajamos con Binance Pay, Visa , Mastercard , Efectivo y PayPal"
+
+      ]
+    },
+    {
+      "tag": "Envios",
+      "patterns": [
+        "¿Cuánto tarda la entrega?",
+        "Cuanto tiempo tarda el envio?",
+        "¿Cuándo recibo mi entrega?"
+      ],
+      "responses": [
+        " La entrega tarda de 2 a 4 días.!",
+        "El envío tarda de 2 a 4 días.!"
+      ]
+    },
+    {
+      "tag": "Ubicacion",
+      "patterns": [
+        "Donde se Encuentran ?", "Ubicacion", "Direccion", "En que ciudad se encuentran ?"
+      ],
+      "responses": [
+        "Actualmente contamos con 5 tiendas en 3 paises diferentes Argentina, Mexico y Venezuela, puedes ver nuestras ubicaciones en nuestra pagina web"
+      
+      ]
+    }
+  ]
+}
