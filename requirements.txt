@@ -23,4 +23,5 @@ urllib3==1.26.14
 Werkzeug==2.2.2
 zipp==3.11.0
 python
-nltk.download('punkt')
+pip install import flask
+pip install nltk.download('punkt')
