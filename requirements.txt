@@ -24,4 +24,4 @@ Werkzeug==2.2.2
 zipp==3.11.0
 python
 import==Flask
-nltk.download==('punkt', 'wordnet', 'averaged_perceptron_tagger')
+nltk.download==punkt
