@@ -11,7 +11,7 @@
         "como estas?"
       ],
       "responses": [
-        "Hola Que Tal como estas, En este chat podre Ayudarte Con algunas dudaas que tengas sobre nuestra tienda con gusto te ayudare, Puedes preguntar: Metodos de pago, Envios, Productos, y donde nos encontramos"
+        "Bienvenido a Nuestra Tienda The FullStackStore, En este chat podre Ayudarte Con algunas dudaas que tengas sobre nuestra tienda con gusto te ayudare, Puedes preguntar: Metodos de pago, Envios, Productos, y donde nos encontramos"
 
       ]
     },
@@ -27,7 +27,7 @@
     {
       "tag": "Gracias",
       "patterns": ["gracias", "Muchas gracias", "Gracias por tu ayuda"],
-      "responses": ["Un placer Haberte ayudado, Gracias por Elegirnos Atentamwentemente,The FullStackStore"]
+      "responses": ["Un placer Haberte ayudado, Gracias por Elegirnos Atentamente,The FullStackStore"]
     },
     {
       "tag": "Prodcutos",
@@ -53,7 +53,6 @@
       ],
       "responses": [
         "Aceptamos Visa , Mastercard , Efectivo y PayPal",
-        " Aceptamos Visa , Mastercard , Efectivo y PayPal",
         "Actualmente trabajamos con Binance Pay, Visa , Mastercard , Efectivo y PayPal"
 
       ]
@@ -66,8 +65,8 @@
         "¿Cuándo recibo mi entrega?"
       ],
       "responses": [
-        " La entrega tarda de 2 a 4 días.!",
-        "El envío tarda de 2 a 4 días.!"
+        " La entrega tarda de 2 a 4 dias.!",
+        "El envío tarda de 2 a 4 dias.!"
       ]
     },
     {
